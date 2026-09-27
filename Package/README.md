@@ -17,6 +17,10 @@ This does not change world level, health, or damage on its own. It only caps the
 
 Install this on the dedicated server and on every client. Use the same config on each of them.
 
+## Source
+
+https://github.com/frizzlebeard/FrizzQOL.MobCap
+
 ## Install
 
 Install with r2modman or the Thunderstore Mod Manager.
