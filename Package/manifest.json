@@ -1,0 +1,9 @@
+{
+  "name": "FrizzQOL_MobCap",
+  "version_number": "0.3.0",
+  "website_url": "",
+  "description": "Limit creature stars, and optionally delay 2-star spawns until a chosen day.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
